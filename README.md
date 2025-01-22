@@ -21,17 +21,17 @@
 
 ### 1. Add Task Screen
 _Quickly add your tasks with an intuitive input field._
-
+![Add Task](./snapshort/Add-Task.png)
 
 ### 2. Bottom Navigation Tabs
 _Switch between "Done," "In Progress," and "All" task lists effortlessly._
 
-![Bottom Tabs](./screenshots/bottom-tabs.png)
+![Bottom Tabs](./snapshort/Bottom-Tabs.png)
 
 ### 3. Delete Task Popup
 _Long-press a task to delete it securely using a confirmation dialog._
 
-![Delete Task Popup](./screenshots/delete-popup.png)
+![Delete Task Popup](./snapshort/Delete-Task.png)
 
 ---
 
